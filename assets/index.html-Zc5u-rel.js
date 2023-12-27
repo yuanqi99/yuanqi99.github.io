@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6b82e083","path":"/zh/server/wind/","title":"Wind服务器","lang":"zh-CN","frontmatter":{"title":"Wind服务器","index":false,"icon":"laptop-code","category":["服务器"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":16},"filePathRelative":"zh/server/wind/README.md"}');export{e as data};

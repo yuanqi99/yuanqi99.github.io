@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40a3a02b","path":"/zh/python/webmagic/","title":"Python 爬虫","lang":"zh-CN","frontmatter":{"title":"Python 爬虫","index":false,"icon":"laptop-code","category":["Python 爬虫"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":15},"filePathRelative":"zh/python/webmagic/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1c541923","path":"/zh/netSecurity/test/","title":"渗透","lang":"zh-CN","frontmatter":{"title":"渗透","index":false,"icon":"laptop-code","category":["渗透"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.04,"words":13},"filePathRelative":"zh/netSecurity/test/README.md"}');export{e as data};

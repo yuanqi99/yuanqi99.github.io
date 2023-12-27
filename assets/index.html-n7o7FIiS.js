@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-45f1c0fa","path":"/zh/netSecurity/","title":"网安","lang":"zh-CN","frontmatter":{"title":"网安","index":true,"icon":"laptop-code","category":["网络安全"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":15},"filePathRelative":"zh/netSecurity/README.md"}');export{e as data};

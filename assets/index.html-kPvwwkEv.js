@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78bc6e8e","path":"/zh/database/mysql/","title":"MySql 数据库","lang":"zh-CN","frontmatter":{"title":"MySql 数据库","index":false,"icon":"laptop-code","category":["数据库"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":16},"filePathRelative":"zh/database/mysql/README.md"}');export{e as data};

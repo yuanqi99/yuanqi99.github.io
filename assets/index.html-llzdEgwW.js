@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0a78692a","path":"/zh/cSharp/basics/","title":"C# 基础","lang":"zh-CN","frontmatter":{"title":"C# 基础","index":true,"icon":"laptop-code","category":[".Net"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.04,"words":13},"filePathRelative":"zh/cSharp/basics/README.md"}');export{e as data};

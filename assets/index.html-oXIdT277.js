@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-010371b8","path":"/zh/server/","title":"服务器","lang":"zh-CN","frontmatter":{"title":"服务器","index":true,"icon":"laptop-code","category":["服务器"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":15},"filePathRelative":"zh/server/README.md"}');export{e as data};

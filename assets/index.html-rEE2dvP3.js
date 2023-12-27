@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-535e0fbf","path":"/zh/python/basics/","title":"Python 基础","lang":"zh-CN","frontmatter":{"title":"Python 基础","index":false,"icon":"laptop-code","category":["Python"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.04,"words":13},"filePathRelative":"zh/python/basics/README.md"}');export{e as data};

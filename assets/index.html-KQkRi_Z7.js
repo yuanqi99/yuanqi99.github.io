@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0f4795ec","path":"/zh/database/","title":"数据库","lang":"zh-CN","frontmatter":{"title":"数据库","index":true,"icon":"laptop-code","category":["数据库"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":15},"filePathRelative":"zh/database/README.md"}');export{e as data};
