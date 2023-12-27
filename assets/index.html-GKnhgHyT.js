@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-fcb6d01a","path":"/zh/Java/Jaee/","title":"JavaSE","lang":"zh-CN","frontmatter":{"title":"JavaSE","index":false,"icon":"laptop-code","category":["Java"],"feed":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.04,"words":11},"filePathRelative":"zh/Java/Jaee/README.md"}');export{a as data};
